@@ -1,4 +1,4 @@
-markdown_content = """<div align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/13Uqp5IGFpmDle/giphy.gif" alt="Luffy One Piece" width="250"/>
 </div>
 
