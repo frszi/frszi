@@ -42,6 +42,9 @@ I am a student at SMK Negeri 8 Jakarta, majoring in Software Engineering. I spec
   <table border="0" align="center">
     <tr>
       <td align="center" valign="middle">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3c1cDJtZTl1bWc2Y3FvNGd3OTkxaWV6c3I5cWR2ZjJmczg4dWdhdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ozIfYzaC2yGkBL3seo/giphy.gif" alt="One Piece GIF" width="300" />
+      </td>
+      <td align="center" valign="middle">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=frszi&amp;theme=dracula&amp;hide_border=true" alt="GitHub Streak" height="195" />
       </td>
       <td align="center" valign="middle">
