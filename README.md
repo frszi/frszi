@@ -55,8 +55,3 @@ I am a student at SMK Negeri 8 Jakarta, majoring in Software Engineering. I spec
   <img src="https://media.giphy.com/media/4xtVSlNMOmHK0/giphy.gif" alt="One Piece Crew" width="350" />
 </div>
 """
-
-with open("README-v2.md", "w", encoding="utf-8") as f:
-    f.write(markdown_content)
-    
-print("README-v2.md generated successfully.")
