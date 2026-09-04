@@ -1,7 +1,22 @@
-<h1 align="center">Hello Fellaz! I'm Farras 🥸</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDgwZ29tNGx4NzA0cHowNm92b2N4aW95ejZ6Y2E0amtic242YmVwZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4eTuzu8xIEqdDfPu9J/giphy.gif"/>
+<div align="center" style="background-color: #1e1e2e; padding: 30px; border-radius: 15px; border: 2px solid #ff4500;">
+  
+  <!-- Animasi Luffy -->
+  <img src="https://media.giphy.com/media/13Uqp5IGFpmDle/giphy.gif" alt="Luffy One Piece" width="250"/>
+
+  <!-- Judul Header -->
+  <h1 align="center" style="color: #ffffff; margin: 10px 0;">Hi! Im Farras 🥸</h1>
+
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4500&center=true&vCenter=true&width=750&lines=Haiiii!+:3+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;My+Name+is+Farras;I'm+a+Digital+Creator;Front-End+Developer;Graphic+Designer;3D+Modeler+%26+Web+Enthusiast" alt="Typing SVG" />
+
 </div>
+
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=frszi&amp;color=red&amp;style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<br/>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4500&center=true&vCenter=true&width=750&lines=Haiiii!+:3+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;I'm+a+Digital+Creator;Front-End+Developer;Graphic+Designer;3D+Modeler+%26+Web+Enthusiast" alt="Typing SVG" />
