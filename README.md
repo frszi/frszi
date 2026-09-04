@@ -49,4 +49,3 @@ I am a student at SMK Negeri 8 Jakarta, majoring in Software Engineering. I spec
 <div align="center">
   <img src="https://media.giphy.com/media/4xtVSlNMOmHK0/giphy.gif" alt="One Piece Crew" width="350" />
 </div>
-"""
