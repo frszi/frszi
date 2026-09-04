@@ -37,18 +37,17 @@ I am a student at SMK Negeri 8 Jakarta, majoring in Software Engineering. I spec
 
 
 ### 📊 GitHub Bounty (Stats)
-
 <div align="center">
-  <table border="0" align="center">
+  <table>
     <tr>
-      <td align="center" valign="middle">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3c1cDJtZTl1bWc2Y3FvNGd3OTkxaWV6c3I5cWR2ZjJmczg4dWdhdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ozIfYzaC2yGkBL3seo/giphy.gif" alt="One Piece GIF" width="300" />
+      <td valign="center">
+        <img height="130" src="https://media1.tenor.com/m/HvkriaRjMHUAAAAd/say-discord.gif" />
       </td>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=frszi&amp;theme=dracula&amp;hide_border=true" alt="GitHub Streak" height="195" />
+      <td valign="center">
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=frszi&theme=dracula&hide_border=false&border_radius=5&order=3&timezone=Asia/Jakarta&v=2" height="140" alt="streak graph" />
       </td>
-      <td align="center" valign="middle">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3c1cDJtZTl1bWc2Y3FvNGd3OTkxaWV6c3I5cWR2ZjJmczg4dWdhdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ozIfYzaC2yGkBL3seo/giphy.gif" alt="One Piece GIF" width="300" />
+      <td valign="center">
+        <img height="130" src="https://media1.tenor.com/m/0QCpZkj0_L8AAAAC/skidding-to-a-stop-ghost-rider.gif" />
       </td>
     </tr>
   </table>
