@@ -39,13 +39,13 @@ I am a student at SMK Negeri 8 Jakarta, majoring in Software Engineering. I spec
   <table>
     <tr>
       <td align="center" valign="middle">
-        <img height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRwdDQ3ZWNrNHFycWNydGp0a215aTZuaHkyd2VtMWJocTJ0c3R4ZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/P9Q7ajT9yhB5VkeXPl/giphy.gif" alt="Left GIF" />
+        <img height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d3dGttcjZ1anZ0eWh3d2NzZ3l3YW81ZzFyZ2xnbG9mNWpoYm90NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bH4eKgxt0KypW/giphy.gif" alt="Left GIF" />
       </td>
       <td align="center" valign="middle">
         <img src="https://github-readme-streak-stats-eight.vercel.app/?user=frszi&theme=dracula&hide_border=false&border_radius=5&order=3&timezone=Asia/Jakarta&v=2" height="140" alt="streak graph" />
       </td>
       <td align="center" valign="middle">
-        <img height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRwdDQ3ZWNrNHFycWNydGp0a215aTZuaHkyd2VtMWJocTJ0c3R4ZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ebbKRoaMHlGRpo8TJK/giphy.gif" alt="Right GIF" />
+        <img height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d3dGttcjZ1anZ0eWh3d2NzZ3l3YW81ZzFyZ2xnbG9mNWpoYm90NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/421g4BNWcwqV7I8FUQ/giphy.gif" alt="Right GIF" />
       </td>
     </tr>
   </table>
