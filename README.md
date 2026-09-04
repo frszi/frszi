@@ -38,12 +38,12 @@ Saya memiliki ketertarikan besar dalam menciptakan pengalaman digital yang menye
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frsziE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
 </div>
 
 <br/>
 
 <!-- Animasi gelombang/footer opsional di bagian bawah -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61cb5ce115c4fc262a2/bottom_header.svg" alt="Footer Animation" />
+  <img src="https://raw.githubusercontent.com/frszi/frszi/379277808c61ef204768a61cb5ce115c4fc262a2/bottom_header.svg" alt="Footer Animation" />
 </div>
