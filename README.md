@@ -1,3 +1,4 @@
+<h1 align="center">Hi! Im Farras 🥸</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/13Uqp5IGFpmDle/giphy.gif" alt="Luffy One Piece" width="250"/>
 </div>
