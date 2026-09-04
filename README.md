@@ -40,7 +40,6 @@ I am a student at SMK Negeri 8 Jakarta, majoring in Software Engineering. I spec
 ### 📊 GitHub Bounty (Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frszi&amp;show_icons=true&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true" alt="GitHub Stats" height="195" />
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3c1cDJtZTl1bWc2Y3FvNGd3OTkxaWV6c3I5cWR2ZjJmczg4dWdhdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ozIfYzaC2yGkBL3seo/giphy.gif" alt="One Piece GIF" height="195" />
 </div>
 
@@ -48,7 +47,6 @@ I am a student at SMK Negeri 8 Jakarta, majoring in Software Engineering. I spec
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=frszi&amp;theme=dracula&amp;hide_border=true" alt="GitHub Streak" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frszi&amp;layout=compact&amp;theme=dracula&amp;hide_border=true" alt="Top Languages" height="195" />
 </div>
 
 
