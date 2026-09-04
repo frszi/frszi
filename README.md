@@ -38,15 +38,12 @@ I am a student at SMK Negeri 8 Jakarta, majoring in Software Engineering. I spec
 ### 📊 GitHub Bounty 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frszi&amp;show_icons=true&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=frszi&amp;theme=dracula&amp;hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frszi&amp;layout=compact&amp;theme=dracula&amp;hide_border=true" alt="Top Languages" width="50%" />
-</div>
+
 
 <!-- One Piece Footer Animation -->
 <div align="center">
