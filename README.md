@@ -41,13 +41,13 @@ I am a student at SMK Negeri 8 Jakarta, majoring in Software Engineering. I spec
   <table>
     <tr>
       <td valign="center">
-        <img height="130" src="https://media1.tenor.com/m/HvkriaRjMHUAAAAd/say-discord.gif" />
+        <img height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRwdDQ3ZWNrNHFycWNydGp0a215aTZuaHkyd2VtMWJocTJ0c3R4ZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/P9Q7ajT9yhB5VkeXPl/giphy.gif" />
       </td>
       <td valign="center">
         <img src="https://github-readme-streak-stats-eight.vercel.app/?user=frszi&theme=dracula&hide_border=false&border_radius=5&order=3&timezone=Asia/Jakarta&v=2" height="140" alt="streak graph" />
       </td>
       <td valign="center">
-        <img height="130" src="https://media1.tenor.com/m/0QCpZkj0_L8AAAAC/skidding-to-a-stop-ghost-rider.gif" />
+        <img height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRwdDQ3ZWNrNHFycWNydGp0a215aTZuaHkyd2VtMWJocTJ0c3R4ZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ebbKRoaMHlGRpo8TJK/giphy.gif" />
       </td>
     </tr>
   </table>
