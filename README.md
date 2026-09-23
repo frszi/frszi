@@ -4,7 +4,7 @@
 
   <h1 align="center" style="color: #4E1F6E; margin: 10px 0;">Hi! Im Farras 🥸</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E040FB&center=true&vCenter=true&width=750&lines=Front+End+Developer;Graphic+Designer;3D+Modeller" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4E1F6E&center=true&vCenter=true&width=750&lines=Front+End+Developer;Graphic+Designer;3D+Modeller" alt="Typing SVG" />
 
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=frszi&color=red&style=flat-square&label=Profile+Views" alt="Profile Views" />
