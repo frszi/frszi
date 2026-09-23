@@ -27,7 +27,7 @@ I am a student at SMK Negeri 8 Jakarta, majoring in Software Engineering. I spec
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,blender,figma,ps,ai,unity,postgresql,python&perline=9" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,blender,figma,unity,postgresql,python,laravel,css,c#&perline=9" alt="Tech Stack"/>
   </a>
 </div>
 
