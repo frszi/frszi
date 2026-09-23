@@ -18,7 +18,7 @@
 I am a student at SMK Negeri 8 Jakarta, majoring in Software Engineering. I specialize in UI/UX design, web development, and 3D modeling, and I also have an interest in graphic design, photography, and videography.
 
 -  **Main Focus:** UI/UX Design, Front-End Development, and 3D Modelling.
--  **Exploration & Experience:** Web Development (including JS DOM manipulation, PHP sessions/forms), alongside a basic understanding of databases and desktop programming.
+-  **Exploration & Experience:** Web Development, alongside a basic understanding of databases and desktop programming.
 -  **Tools of the Trade:** Experienced in using Blender for 3D visualization.
 
 ---
